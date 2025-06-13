@@ -80,3 +80,4 @@ Dockerize the app
 Deploy on AWS EC2
 
 Optional static hosting via S3
+#dummy readme contribution
