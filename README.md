@@ -1,4 +1,4 @@
-##> This is a test commit for version control demo
+## This is a test commit for version control demo
 # 💸 Expense Tracker Web App (Flask)
 
 A dynamic web application to track your daily expenses with category, time, date, and even uploaded images. Built using **Flask**, **SQLite**, **Chart.js**, and styled with **CSS**.
